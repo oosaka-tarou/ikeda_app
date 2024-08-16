@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-st.title("池田糖化工業㈱")
+st.title("池田糖化工業㈱裏サイト")
 
 
 st.markdown("""
